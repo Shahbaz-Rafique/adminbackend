@@ -221,6 +221,7 @@
     "strnum": "^1.0.5",
     "supports-color": "^5.5.0",
     "supports-preserve-symlinks-flag": "^1.0.0",
+    "text-encoding": "^0.7.0",
     "to-fast-properties": "^2.0.0",
     "to-regex-range": "^5.0.1",
     "toidentifier": "^1.0.1",
